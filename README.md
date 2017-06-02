@@ -17,7 +17,7 @@ The steps required to install these, are available here.
 
 ## Deployment
 
-Before we run the code, it is necessary to download the JSON library as I have used it to parse the Consumer Record. For convenience, I have included it here along with the code. Copy it to '/home/../kafka_2.11-0.9.0.0/libs'. Start the ZooKeeper Server, as given in the above mentioned reference. 
+Before we run the code, it is necessary to download the JSON library as I have used it to parse the Consumer Record. For convenience, I have included it here along with the code. Copy it to '/home/../kafka_2.11-0.9.0.0/libs'. Start the ZooKeeper Server, as given in the above mentioned reference. Next, create a topic 'iot', the steps are given in the above reference.
 Next, on terminal navigate to the working directory and type
 
 ```
